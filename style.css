@@ -1,0 +1,59 @@
+body {
+                background-image: url(https://i.pinimg.com/236x/58/e1/43/58e143263b54fdb83695d60720f9fc34.jpg);
+                font-size: 17px;
+                font-family: futura md bt;
+}
+
+h1{
+                color: black;
+                font-family: futura md bt;
+                font-size:32px;
+                letter-spacing: 0,20px;
+}
+h2{
+                color: rgb(20,20,20);
+                font-family: futura md bt;
+                font-size: 24px;
+                font-weight: lighter;
+}
+
+a:hover {
+                color: red;
+}
+
+
+/*custom design with class*/
+.container {
+                width: 700px;
+                margin: 40px auto;
+}
+
+.card-white {
+                background: white;
+                padding: 30px;
+                border-radius: 4px;
+                box-shadow: 0 50px 70px rgba(50,50,93,.1);
+                margin: 25px;
+
+                text-align: center;
+}
+
+.img-circle{
+              border-radius: 50%;
+
+
+}
+
+a {
+                font-family: futura md bt, sans-serif;
+                text-decoration: none;
+                color: black;
+                font-weight: 600;
+                font-size: 16px;
+
+}
+
+a:hover {
+                color: black;
+}
+
